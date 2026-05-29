@@ -17,7 +17,7 @@ A Machine Learning and Natural Language Processing (NLP) project that predicts t
 * Pandas
 * NumPy
 * TensorFlow / Keras
-* Scikit-learn
+* Scikit-learn 
 * Pickle
 * Streamlit
 
